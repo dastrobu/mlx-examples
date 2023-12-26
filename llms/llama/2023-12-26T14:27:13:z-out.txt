@@ -1,0 +1,91 @@
+[INFO] Loading model from /Users/ds/code/ml/huggingface/dastrobu/mlx-llama-2/llama-2-13b-chat/weights.*.npz.
+------
+In the beginning the Universe was created.
+This has made a great deal of people very angry and been widely regarded as a bad move.
+
+-- Douglas Noble, "The Book of Infinite wisdom"
+
+I think this is a great example of a joke that is both funny and thought-proving. It takes a familiar concept (the beginning of the Univere) and subverts it in a way that is both surprising and insightful. The puncutation and wording also add to the
+------
+[INFO] Prompt processing: 0.569 s
+[INFO] Full generation: 9.145 s
+------
+In the beginning the Universe was created.
+This has made a great deal of people very angry and been widely regarded as a bad move.
+
+-- Douglas Noble, "The Book of Infinite wisdom"
+
+I think this is a great example of a joke that is both funny and thought-proving. It takes a familiar concept (the beginning of the Univere) and subverts it in a way that is both surprising and insightful. The puncutation and wording also add to the
+------
+[INFO] Prompt processing: 0.130 s
+[INFO] Full generation: 8.660 s
+------
+In the beginning the Universe was created.
+This has made a great deal of people very angry and been widely regarded as a bad move.
+
+-- Douglas Noble, "The Book of Infinite wisdom"
+
+I think this is a great example of a joke that is both funny and thought-proving. It takes a familiar concept (the beginning of the Univere) and subverts it in a way that is both surprising and insightful. The puncutation and wording also add to the
+------
+[INFO] Prompt processing: 0.127 s
+[INFO] Full generation: 8.772 s
+------
+In the beginning the Universe was created.
+This has made a great deal of people very angry and been widely regarded as a bad move.
+
+-- Douglas Noble, "The Book of Infinite wisdom"
+
+I think this is a great example of a joke that is both funny and thought-proving. It takes a well-known concept (the beginning of the Univere) and adds a new and absurd spin to it, creating a humorously absurd situation. At the same time, it also
+------
+[INFO] Prompt processing: 0.351 s
+[INFO] Full generation: 8.829 s
+------
+In the beginning the Universe was created.
+This has made a great deal of people very angry and been widely regarded as a bad move.
+
+-- Douglas Noble, "The Book of Infinite wisdom"
+
+I think this is a great example of a joke that is both funny and thought-proving. It takes a well-known concept (the beginning of the Univere) and adds a new and absurd spin to it, creating a humorously absurd situation. At the same time, it also
+------
+[INFO] Prompt processing: 0.128 s
+[INFO] Full generation: 8.561 s
+------
+In the beginning the Universe was created.
+This has made a great deal of people very angry and been widely regarded as a bad move.
+
+-- Douglas Noble, "The Book of Infinite wisdom"
+
+I think this is a great example of a joke that is both funny and thought-proving. It takes a well-known concept (the beginning of the Univere) and adds a new and absurd spin to it, creating a humorously absurd situation. At the same time, it also
+------
+[INFO] Prompt processing: 0.125 s
+[INFO] Full generation: 8.520 s
+------
+In the beginning the Universe was created.
+This has made a lot of people very angry and been widely regarded as a bad move.
+
+-- Douglas Adams, "The Hitchhiker's Guide to the Galaxy"
+
+I've always loved this quote, and it's one of my favorites from Douglas Adams. It's a great example of his wit and humor, and it's a clever way of poking fun at the idea of creationism. The idea that the universe was created is a
+------
+[INFO] Prompt processing: 1.909 s
+[INFO] Full generation: 192.604 s
+------
+In the beginning the Universe was created.
+This has made a lot of people very angry and been widely regarded as a bad move.
+
+-- Douglas Adams, "The Hitchhiker's Guide to the Galaxy"
+
+I've always loved this quote, and it's one of my favorites from Douglas Adams. It's a great example of his wit and humor, and it's a clever way of poking fun at the idea of creationism. The idea that the universe was created is a
+------
+[INFO] Prompt processing: 1.920 s
+[INFO] Full generation: 194.157 s
+------
+In the beginning the Universe was created.
+This has made a lot of people very angry and been widely regarded as a bad move.
+
+-- Douglas Adams, "The Hitchhiker's Guide to the Galaxy"
+
+I've always loved this quote, and it's one of my favorites from Douglas Adams. It's a great example of his wit and humor, and it's a clever way of poking fun at the idea of creationism. The idea that the universe was created is a
+------
+[INFO] Prompt processing: 1.842 s
+[INFO] Full generation: 201.466 s

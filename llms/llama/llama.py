@@ -2,15 +2,17 @@
 
 import argparse
 import json
+import sys
 import time
 import glob
+import timeit
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Optional, Tuple
 
 import mlx.core as mx
 import mlx.nn as nn
-from mlx.utils import tree_unflatten
+from mlx.utils import tree_unflatten, tree_map
 from sentencepiece import SentencePieceProcessor
 
 
@@ -219,7 +221,7 @@ def toc(msg, start):
 
 
 def generate(args):
-    input("Press enter to start generation")
+    # input("Press enter to start generation")
     print("------")
     print(args.prompt)
     x = mx.array([[tokenizer.bos_id()] + tokenizer.encode(args.prompt)])
@@ -391,7 +393,8 @@ if __name__ == "__main__":
     mx.random.seed(args.seed)
 
     model, tokenizer = load_model(args.model_path)
-    if args.few_shot:
-        few_shot_generate(args)
-    else:
-        generate(args)
+
+    for dtype in [mx.float16, mx.bfloat16, mx.float32]:
+        model.update(tree_map(lambda x: x.astype(dtype), model.parameters()))
+        repeat = 3
+        print("{}: best out of {}: {:.3f}s".format(dtype, repeat, min(timeit.repeat("generate(args)", number=1, repeat=repeat, globals=globals()))), file=sys.stderr)

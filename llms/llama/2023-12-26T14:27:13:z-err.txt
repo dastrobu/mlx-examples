@@ -1,0 +1,3 @@
+mlx.core.float16: best out of 3: 8.660s
+mlx.core.bfloat16: best out of 3: 8.520s
+mlx.core.float32: best out of 3: 192.604s
